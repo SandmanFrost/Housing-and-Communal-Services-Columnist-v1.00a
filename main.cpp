@@ -67,4 +67,4 @@ LRESULT CALLBACK MainProc(HWND hWnd, UINT msg, WPARAM wp, LPARAM lp) {
   return DefWindowProc(hWnd, msg, wp, lp);
 }
 
-/*Create fron SandmanFrost(S.Barskiy)*/
+/*Create fron SandmanFrost*/

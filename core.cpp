@@ -513,4 +513,4 @@ bool Browser::IsNumber(std::wstring str) {
   return true;
 }
 
-/*Create fron SandmanFrost(S.Barskiy)*/
+/*Create fron SandmanFrost*/

@@ -189,4 +189,4 @@ class Browser {
   void SaveTemporary(HWND hWnd);
 };
 
-/*Create fron SandmanFrost(S.Barskiy)*/
+/*Create fron SandmanFrost*/
